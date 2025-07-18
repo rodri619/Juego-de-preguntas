@@ -13,7 +13,9 @@ public class AguaDeCalzon {
     }
 
     public void iniciarJuego() {
+        System.out.print("═════════════════════════════════════════════════════════ ");
         System.out.println("¡Bienvenidos a Agua de Calzón! 🍷🔥");
+        System.out.print("═════════════════════════════════════════════════════════ ");
         System.out.print("Ingresa la cantidad de jugadores (2-10): ");
         
         int cantidadJugadores;

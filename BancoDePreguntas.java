@@ -65,6 +65,7 @@ public class BancoDePreguntas {
         preguntas.add("Salado o dulce");
         preguntas.add("Flores favoritas");
         preguntas.add("Cuántos herman@s tengo?");
+
     }
 
     public String obtenerPreguntaAleatoria() {
